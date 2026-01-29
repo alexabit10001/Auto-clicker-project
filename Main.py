@@ -11,7 +11,7 @@ clicking = False
 click_interval = 0.1
 current_hotkey = "F6"
 
-# -------------------- Auto Clicker Logic --------------------
+# -------------------- Auto Clicker Logic 
 def auto_clicker():
     global clicking
     while True:

@@ -40,7 +40,6 @@ def update_interval(val):
 def set_hotkey():
     global current_hotkey
     new_key = hotkey_entry.get().strip()
-
     if not new_key:
         return
 
